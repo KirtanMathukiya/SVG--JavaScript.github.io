@@ -1,7 +1,6 @@
 /** 
- *Kirtan Mathukiya, 000885064
- *Date - 16/03/2023
- *this file creat svg element on html screen and animate them.
+ *Author - Kirtan Mathukiya,
+ *This file creates an svg elements on html screen and animate them to make game visualy good appealing.
 */
 
 // Wait for the HTML document to fully load before running the code
